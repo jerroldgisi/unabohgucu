@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://engagieze.tnyholm.se/sitemap.xml
